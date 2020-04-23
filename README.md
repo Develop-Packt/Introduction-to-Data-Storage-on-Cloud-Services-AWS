@@ -1,2 +1,5 @@
-# Introduction-to-Data-Storage-on-Cloud-Services-AWS
-Here you will cover the pros and cons of various cloud data storage solutions. You will create, access, and manage your Amazon S3 cloud services. Learn how to use the AWS Command Line Interface (CLI) and Python Software Development Kit (SDK) to control Amazon Web Services (AWS). Lastly, you will create a simple data pipeline that reads from and writes to your cloud data storage.
+# Introduction to Data Storage on Cloud Services (AWS)
+[![GitHub issues](https://img.shields.io/github/issues/Develop-Packt/Introduction-to-Data-Storage-on-Cloud-Services-AWS.svg)](https://github.com/Develop-Packt/Introduction-to-Data-Storage-on-Cloud-Services-AWS/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Develop-Packt/Introduction-to-Data-Storage-on-Cloud-Services-AWS.svg)](https://github.com/Develop-Packt/Introduction-to-Data-Storage-on-Cloud-Services-AWS/network)
+[![GitHub stars](https://img.shields.io/github/stars/Develop-Packt/Introduction-to-Data-Storage-on-Cloud-Services-AWS.svg)](https://github.com/Develop-Packt/Introduction-to-Data-Storage-on-Cloud-Services-AWS/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Develop-Packt/Introduction-to-Data-Storage-on-Cloud-Services-AWS/pulls)
